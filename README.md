@@ -12,4 +12,4 @@
 - создает иерархию на дочерние ссылки относительно родительских
 - записывает в файл полученные ссылки
 ## Пример результата записи в файл
-![Работа приложения](https://raw.githubusercontent.com/sunatdierov/Web_Link_Parser/main/src/resources/photo_2024-04-26_23-22-23.jpg)
+![](https://raw.githubusercontent.com/sunatdierov/Web_Link_Parser/main/src/resources/photo_2024-04-26_23-22-23.jpg)
